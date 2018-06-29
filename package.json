@@ -1,6 +1,6 @@
 {
   "name": "@mls-digital/react-native-orientation",
-  "version": "3.1.5",
+  "version": "3.1.6",
   "description": "Listen to device orientation changes in React Native applications and programmatically set preferred orientations on a per screen basis",
   "main": "index.js",
   "scripts": {
@@ -18,13 +18,13 @@
   "author": "Yamill Vallecillo <yamill@gmail.com> (github.com/yamill)",
   "contributors": [
     {
-      "name" : "André Neves",
-      "email" : "@andrerfneves",
-      "url" : "https://andrenev.es"
+      "name": "André Neves",
+      "email": "@andrerfneves",
+      "url": "https://andrenev.es"
     },
     {
-      "name" : "Aleksi Pousar",
-      "email" : "aleksi1578@msn.com"
+      "name": "Aleksi Pousar",
+      "email": "aleksi1578@msn.com"
     }
   ],
   "license": "ISC",
